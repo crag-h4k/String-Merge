@@ -1,0 +1,2 @@
+FUNCTION: strMerge
+Merge two strings (str1 & str2) into one (strDest) by taking the 1st character of str1, then 1st char from str2, 2nd char from str1, 2nd char from str2, … etc, until the end of one string, then append the rest of the other string. For example, two strings "abcd" and "pqrstuv" will give you "apbqcrdstuv" as the result. ccDest is the size of the destination buffer, in character count.
